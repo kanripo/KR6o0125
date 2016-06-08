@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:16.405997
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:57
 #+TITLE: 那先比丘經
 #+PROPERTY: CBETA_ID T32n1670B
 #+PROPERTY: ID KR6o0125
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1670B
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0125_T_000-0703c>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0125_T_003-0715b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 那先比丘經卷下¶
+那先比丘經卷下¶
 ¶
 失譯人名附東晉錄¶
 
@@ -303,7 +302,7 @@
 悉思惟深奧之事。那先言佛經最深奧知眾¶
 事。不可稱量眾事。皆智平斷之。王言善哉。王¶
 復問那先。人神智自然。此三事寧同各異。那¶
-先言人神者生覺。智者曉道。自然者虛空無¶
+先言人神者主覺。智者曉道。自然者虛空無¶
 有人。王復問那先言。得人何等為得人者。眼
 <pb:KR6o0125_T_003-0718c>¶
 視色耳聽聲鼻聞香口知味身知麁軟意知善¶
